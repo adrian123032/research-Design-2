@@ -1,0 +1,92 @@
+
+TY  - CONF
+ID  - RefID:437-2013dynamic
+A1  - J. -Y. Wang
+A1  - Y. -R. Tseng
+T1  - Dynamic difficulty adjustment by fuzzy rules using in a neural network controlled game
+Y1  - 2013
+SP  - 277
+EP  - 281
+KW  - DDA Implementations
+N1  - ID: 1
+T2  - - 2013 Ninth International Conference on Natural Computation (ICNC)
+JA  - 2013 Ninth International Conference on Natural Computation (ICNC)
+SN  - 2157-9555
+DO  - 10.1109/ICNC.2013.6817985
+M1  - Conference Proceedings
+ER  - 
+
+TY  - CONF
+ID  - RefID:436-2013framework
+A1  - A. Baldwin
+A1  - D. Johnson
+A1  - P. Wyeth
+A1  - P. Sweetser
+T1  - A framework of Dynamic Difficulty Adjustment in competitive multiplayer video games
+Y1  - 2013
+SP  - 16
+EP  - 19
+KW  - DDA Implementations
+N1  - ID: 1
+T2  - - 2013 IEEE International Games Innovation Conference (IGIC)
+JA  - 2013 IEEE International Games Innovation Conference (IGIC)
+SN  - 2166-675X
+DO  - 10.1109/IGIC.2013.6659150
+M1  - Conference Proceedings
+ER  - 
+
+TY  - CONF
+ID  - RefID:435-2010dynamic
+A1  - Y. Hao
+A1  - Suoju He
+A1  - Junping Wang
+A1  - Xiao Liu
+A1  - jiajian Yang
+A1  - Wan Huang
+T1  - Dynamic Difficulty Adjustment of Game AI by MCTS for the game Pac-Man
+Y1  - 2010
+VL  - 8
+SP  - 3918
+EP  - 3922
+KW  - DDA Implementations
+N1  - ID: 1
+T2  - - 2010 Sixth International Conference on Natural Computation
+JA  - 2010 Sixth International Conference on Natural Computation
+SN  - 2157-9563
+DO  - 10.1109/ICNC.2010.5584761
+M1  - Conference Proceedings
+ER  - 
+
+TY  - CONF
+ID  - RefID:428-2020hyper-casual
+A1  - Z. Yang
+A1  - B. Sun
+T1  - Hyper-Casual Endless Game Based Dynamic Difficulty Adjustment System For Players Replay Ability
+Y1  - 2020
+SP  - 860
+EP  - 866
+KW  - DDA Implementations
+N1  - ID: 1
+T2  - - 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+JA  - 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+SN  - NULL-
+DO  - 10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00133
+M1  - Conference Proceedings
+ER  - 
+
+TY  - JOUR
+ID  - RefID:419-hunicke2005case
+A1  - Hunicke, Robin
+T1  - The Case for Dynamic Difficulty Adjustment in Games
+Y1  - 2005
+Y2  - Jun 15,
+SP  - 429
+EP  - 433
+KW  - DDA Implementations
+AB  - Conventional wisdom suggests that while players enjoy unpredictability or novelty during gameplay experiences, they will feel "cheated" if games are adjusted during or across play sessions. In order for adjustment to be effective, it must be performed without disrupting or degrading the core player experience. This paper examines basic design requirements for effective dynamic difficulty adjustment (DDA) given this constraint, presents an interactive DDA system (Hamlet), and offers preliminary evaluation results which challenge common assumptions about player enjoyment and adjustment dynamics.
+T2  - ACE '05
+JF  - ACM International Conference Proceeding Series; Vol. 265: Proceedings of the 2005 ACM SIGCHI International Conference on Advances in computer entertainment technology; 15-17 June 2005
+UR  - http://dl.acm.org/citation.cfm?id=1178573
+DO  - 10.1145/1178477.1178573
+M1  - Journal Article
+ER  - 
